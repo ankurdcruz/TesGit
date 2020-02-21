@@ -1,1 +1,20 @@
-This is a test new file
+This is a test new file for Git
+
+//add
+git add filename
+
+//clone repo to local
+git clone url
+
+//commit changes to the file
+git commit -m "comment" filename
+
+//push file to github
+git push -u origin master
+
+//check status
+git status
+
+//configure first time
+git config --global user.name "username"
+git config --global user.email emailID
